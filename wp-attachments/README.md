@@ -1,4 +1,4 @@
-# WP Attachments
+# WP Attachments – Smarter File Management & Download Lists
 
 Attach files to any post or page and let WordPress list them for you, with icons, file sizes and a download counter.
 
@@ -13,9 +13,9 @@ Upload a file while editing a post and it shows up under your content — no man
 - Automatic attachment list after the post content
 - Metabox to manage, preview, rename and reorder files (mouse, keyboard or drag)
 - Attach / Unattach / Reattach actions in the Media Library
-- A **Files** column in the post and page lists, linking to the files
+- A **Files** column in the post and page lists, with visibility and a filter
 - Download counter that ignores crawlers, prefetches and repeat clicks
-- Four icon packs and customisable templates
+- Modern SVG icons, a Modern Card layout and customisable templates with previews
 - Works with posts, pages and custom post types
 - WooCommerce compatible, HPOS included
 
